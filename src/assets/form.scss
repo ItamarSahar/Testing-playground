@@ -1,0 +1,24 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 8px 0;
+  height: 65px;
+}
+
+.label {
+  margin: 0 0 8px 0;
+}
+
+.input {
+  height: 20px;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.error {
+  color: rgb(254, 82, 82);
+  margin: 0;
+  font-size: 13px;
+}
